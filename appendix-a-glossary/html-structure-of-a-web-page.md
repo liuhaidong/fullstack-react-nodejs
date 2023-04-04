@@ -1,4 +1,4 @@
-# 2.1. HTML: Structure of a Web Page
+# HTML: Structure of a Web Page
 
 "HTML: Structure of a Web Page" is a crucial topic to understand for any web developer. HTML (Hypertext Markup Language) is used to create the basic structure and content of web pages. It consists of a series of elements or tags, which define the various parts of a page, such as headings, paragraphs, lists, links, images, and more.
 

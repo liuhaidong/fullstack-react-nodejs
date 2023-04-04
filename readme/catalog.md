@@ -14,7 +14,8 @@ Chapter 1: Introduction to Full Stack Development
 2. The role of a full stack developer
 3. Technologies involved in full stack development
 4. Full stack development trends
-5. Introducing the Personal Assistant App project
+
+
 
 Chapter 2: Setting up the Development Environment
 

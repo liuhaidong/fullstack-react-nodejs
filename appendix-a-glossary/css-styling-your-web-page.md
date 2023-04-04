@@ -1,4 +1,4 @@
-# 2.2. CSS: Styling Your Web Page
+# CSS: Styling Your Web Page
 
 CSS (Cascading Style Sheets) is used to apply styles, such as colors, fonts, and layout, to HTML elements.
 
