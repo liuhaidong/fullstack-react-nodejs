@@ -10,126 +10,126 @@ Preface:
 
 Chapter 1: Introduction to Full Stack Development
 
-* What is full stack development?
-* The role of a full stack developer
-* Technologies involved in full stack development
-* Full stack development trends
-* Introducing the Personal Assistant App project
+1. What is full stack development?
+2. The role of a full stack developer
+3. Technologies involved in full stack development
+4. Full stack development trends
+5. Introducing the Personal Assistant App project
 
 Chapter 2: Setting up the Development Environment
 
-* Required software and tools
-* Installing Node.js and npm
-* Setting up a code editor (e.g., Visual Studio Code)
-* Introduction to Git and version control
-* Initializing the Personal Assistant App project
+1. Required software and tools
+2. Installing Node.js and npm
+3. Setting up a code editor (e.g., Visual Studio Code)
+4. Introduction to Git and version control
+5. Initializing the Personal Assistant App project
 
 Chapter 3: Front-end Development with React
 
-* Introduction to React
-* React components and JSX
-* State management with useState and useContext
-* React Hooks
-* Routing with React Router
-* Building the Personal Assistant App's basic structure
+1. Introduction to React
+2. React components and JSX
+3. State management with useState and useContext
+4. React Hooks
+5. Routing with React Router
+6. Building the Personal Assistant App's basic structure
 
 Chapter 4: Material-UI for Styling and Theming
 
-* Introduction to Material-UI
-* MUI components
-* Customizing styles and themes
-* Responsive design with Material-UI
-* Building reusable MUI components
-* Styling the Personal Assistant App
+1. Introduction to Material-UI
+2. MUI components
+3. Customizing styles and themes
+4. Responsive design with Material-UI
+5. Building reusable MUI components
+6. Styling the Personal Assistant App
 
 Chapter 5: Back-end Development with Node.js
 
-* Introduction to Node.js
-* Setting up an Express server
-* RESTful API design
-* Authentication and authorization with JWT
-* Error handling and middleware
-* Building the Personal Assistant App's API
+1. Introduction to Node.js
+2. Setting up an Express server
+3. RESTful API design
+4. Authentication and authorization with JWT
+5. Error handling and middleware
+6. Building the Personal Assistant App's API
 
 Chapter 6: Data Storage with SQLite
 
-* Introduction to SQLite
-* Setting up SQLite in the Personal Assistant App project
-* Performing CRUD operations
-* Querying data with SQL
-* Transactions and migrations
-* Designing the Personal Assistant App's database schema
+1. Introduction to SQLite
+2. Setting up SQLite in the Personal Assistant App project
+3. Performing CRUD operations
+4. Querying data with SQL
+5. Transactions and migrations
+6. Designing the Personal Assistant App's database schema
 
 Chapter 7: Data Storage with MongoDB
 
-* Introduction to MongoDB
-* Setting up MongoDB in the Personal Assistant App project
-* Performing CRUD operations with Mongoose
-* Querying data with Mongoose
-* Indexing and data modeling
-* Designing the Personal Assistant App's MongoDB schema
+1. Introduction to MongoDB
+2. Setting up MongoDB in the Personal Assistant App project
+3. Performing CRUD operations with Mongoose
+4. Querying data with Mongoose
+5. Indexing and data modeling
+6. Designing the Personal Assistant App's MongoDB schema
 
 Chapter 8: Integrating the Front-end and Back-end
 
-* Connecting the Personal Assistant App's React front-end with the Node.js server
-* Making API calls for authentication, tasks, and events
-* Implementing real-time updates with websockets
+1. Connecting the Personal Assistant App's React front-end with the Node.js server
+2. Making API calls for authentication, tasks, and events
+3. Implementing real-time updates with websockets
 
 Chapter 9: Implementing User Authentication
 
-* Setting up user registration and login in the Personal Assistant App
-* Securing API routes with JWT middleware
-* Implementing password reset functionality
-* Adding social login (e.g., Google, Facebook)
+1. Setting up user registration and login in the Personal Assistant App
+2. Securing API routes with JWT middleware
+3. Implementing password reset functionality
+4. Adding social login (e.g., Google, Facebook)
 
 Chapter 10: Adding Personal Assistant App Features
 
-* Implementing task management
-* Adding calendar integration and event scheduling
-* Implementing reminders and notifications
-* Integrating external services (e.g., weather, news)
-* Building a chatbot for quick assistance
+1. Implementing task management
+2. Adding calendar integration and event scheduling
+3. Implementing reminders and notifications
+4. Integrating external services (e.g., weather, news)
+5. Building a chatbot for quick assistance
 
 Chapter 11: Testing and Debugging
 
-* Introduction to testing and debugging
-* Unit testing with Jest and React Testing Library
-* Integration testing for APIs with Supertest
-* End-to-end testing with Cypress
-* Debugging tips and tricks
-* Testing the Personal Assistant App
+1. Introduction to testing and debugging
+2. Unit testing with Jest and React Testing Library
+3. Integration testing for APIs with Supertest
+4. End-to-end testing with Cypress
+5. Debugging tips and tricks
+6. Testing the Personal Assistant App
 
 Chapter 12: Deployment and Continuous Integration
 
-* Preparing the Personal Assistant App for production
-* Deploying the front-end and back-end separately
-* Deployment options for Node.js (e.g., Heroku, AWS, DigitalOcean)
-* Deploying MongoDB with MongoDB Atlas or self-hosting
-* Setting up a continuous integration pipeline with GitHub Actions or GitLab CI/CD
+1. Preparing the Personal Assistant App for production
+2. Deploying the front-end and back-end separately
+3. Deployment options for Node.js (e.g., Heroku, AWS, DigitalOcean)
+4. Deploying MongoDB with MongoDB Atlas or self-hosting
+5. Setting up a continuous integration pipeline with GitHub Actions or GitLab CI/CD
 
 Chapter 13: Optimizing Application Performance
 
-* Front-end performance optimization techniques
-* Back-end performance optimization techniques
-* Caching strategies
-* Load balancing and horizontal scaling
-* Optimizing the Personal Assistant App
+1. Front-end performance optimization techniques
+2. Back-end performance optimization techniques
+3. Caching strategies
+4. Load balancing and horizontal scaling
+5. Optimizing the Personal Assistant App
 
 Chapter 14:Security Best Practices
 
-* Introduction to web application security
-* Securing user data in the Personal Assistant App
-* Protecting against common vulnerabilities (e.g., XSS, CSRF)
-* Rate limiting and logging
-* Regularly updating dependencies and monitoring vulnerabilities
+1. Introduction to web application security
+2. Securing user data in the Personal Assistant App
+3. Protecting against common vulnerabilities (e.g., XSS, CSRF)
+4. Rate limiting and logging
+5. Regularly updating dependencies and monitoring vulnerabilities
 
 Chapter 15: Maintaining and Scaling Your Application
 
-* Monitoring application health and performance
-* Setting up error tracking and alerting
-* Regularly reviewing code and optimizing
-* Scaling the application horizontally and vertically
-* Maintaining the Personal Assistant App
+1. Monitoring application health and performance
+2. Setting up error tracking and alerting
+3. Regularly reviewing code and optimizing
+4. Scaling the application horizontally and vertically
+5. Maintaining the Personal Assistant App
 
 Conclusion:
 
