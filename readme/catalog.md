@@ -16,7 +16,12 @@
    3.3. TypeScript Basics: Variables, Types, and Functions \
    3.4. Advanced TypeScript: Interfaces, Generics, and Decorators
 4. Front-End Development with React \
-   4.1. Introduction to React 4.2. Creating a React App with TypeScript 4.3. React Components and Props 4.4. State Management with React Hooks 4.5. Routing and Navigation with React Router 4.6. Styling React Components
+   4.1. Introduction to React \
+   4.2. Creating a React App with TypeScript \
+   4.3. React Components and Props \
+   4.4. State Management with React Hooks \
+   4.5. Routing and Navigation with React Router \
+   4.6. Styling React Components
 5. Back-End Development with Node.js \
    5.1. Introduction to Node.js \
    5.2. Setting Up a Node.js Project with TypeScript \
