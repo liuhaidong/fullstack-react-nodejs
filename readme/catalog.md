@@ -21,7 +21,7 @@ Chapter 2: Setting up the Development Environment
 
 1. Required software and tools
 2. Installing Node.js and npm
-3. Setting up a code editor (e.g., Visual Studio Code)
+3. Setting up a code editor
 4. Introduction to Git and version control
 5. Initializing the Personal Assistant App project
 
