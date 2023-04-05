@@ -30,6 +30,7 @@
   * [1. Introduction to Material-UI](chapter-4-material-ui-for-styling-and-theming/1.-introduction-to-material-ui.md)
   * [2. MUI Components](chapter-4-material-ui-for-styling-and-theming/2.-mui-components.md)
   * [3. Customizing styles and themes](chapter-4-material-ui-for-styling-and-theming/3.-customizing-styles-and-themes.md)
+  * [4. Responsive design with Material-UI](chapter-4-material-ui-for-styling-and-theming/4.-responsive-design-with-material-ui.md)
 * [Appendix A: Glossary](appendix-a-glossary/README.md)
   * [HTML: Structure of a Web Page](appendix-a-glossary/html-structure-of-a-web-page.md)
   * [CSS: Styling Your Web Page](appendix-a-glossary/css-styling-your-web-page.md)
